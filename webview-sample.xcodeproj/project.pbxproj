@@ -161,6 +161,7 @@
 				TargetAttributes = {
 					9E818B271AFCB0E300198899 = {
 						CreatedOnToolsVersion = 6.3.1;
+						DevelopmentTeam = K8FF7JE9V6;
 					};
 					9E818B3C1AFCB0E300198899 = {
 						CreatedOnToolsVersion = 6.3.1;
@@ -342,6 +343,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "webview-sample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -352,6 +354,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "webview-sample/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -411,6 +414,7 @@
 				9E818B491AFCB0E300198899 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9E818B4A1AFCB0E300198899 /* Build configuration list for PBXNativeTarget "webview-sampleTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +423,7 @@
 				9E818B4C1AFCB0E300198899 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

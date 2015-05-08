@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  webview-sample
-//
-//  Created by masumi on 2015/05/08.
-//  Copyright (c) 2015年 catal. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
